@@ -11,5 +11,5 @@ SE test <br>
 <br/>
 
 ## 과제5
-https://github.com/wavingwind/se/blob/main/document/%EA%B3%BC%EC%A0%9C5/%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EB%B3%B4%EA%B3%A0%EC%84%9C
+[테스트보고서](https://github.com/wavingwind/se/blob/main/document/%EA%B3%BC%EC%A0%9C5/%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EB%B3%B4%EA%B3%A0%EC%84%9C)
 <br/>
